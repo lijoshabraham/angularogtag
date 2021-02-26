@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "testog"
+  "defaultProject": "testog",
+  "cli": {
+    "analytics": "520ef604-bde8-4b62-9007-3d0b604ff601"
+  }
 }
